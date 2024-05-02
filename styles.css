@@ -59,7 +59,7 @@ img {
     height: 200px;
 }
 
-button {
+.button button {
     background-color: #3882f6;
     border: none;
     border-radius: 5px;
@@ -91,4 +91,55 @@ button {
 .info img {
     width: 150px;
     height: 150px;
+}
+
+.quote-section {
+    background-color: #e5e7eb;
+    padding: 30px;
+    margin-top: 10px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.reference {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.call-to-action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+.action-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30;
+    background-color: #3882f6;
+    border-radius: 5px;
+    padding: 30px;
+    width: 800px;
+}
+#click button{
+    border: #F9FAF8;
+}
+.text {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.a-button button {
+    border-color: #F9FAF8;
+    background-color: #3882f6;
+    color:#F9FAF8;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
 }
