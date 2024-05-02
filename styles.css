@@ -142,4 +142,14 @@ img {
     border-width: 2px;
     border-style: solid;
     border-radius: 5px;
+    padding: 5px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    background: #1F2937;
+    color: #F9FAF8;
+    padding: 24px;
+    align-items: center;
 }
