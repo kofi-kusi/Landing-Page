@@ -13,6 +13,7 @@ body {
     background: #1F2937;
     color: #F9FAF8;
     padding: 24px;
+    flex-wrap: wrap;
 }
 
 .logo {
@@ -91,6 +92,7 @@ img {
 .info img {
     width: 150px;
     height: 150px;
+    
 }
 
 .quote-section {
