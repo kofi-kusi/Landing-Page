@@ -1,6 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
+    font-family: Roboto, sans-serif;
 }
 
 /* header design */
@@ -28,7 +29,6 @@ a {
 .header .container{
     display: flex;
     justify-content: space-around;
-    align-items: center;
     margin-bottom: 20px;
     flex: 1;
 }
